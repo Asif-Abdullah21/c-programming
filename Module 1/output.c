@@ -7,11 +7,10 @@
 //     scanf("%d %c %f", &a,&c,&f);
 //     printf("%d %c %.2f\n\n\n",a,c,f);
 
-    
 //     return 0;
 // }
 
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
     // print 10% 20%
@@ -32,17 +31,17 @@ int main()
     //  printf("%da %db",a,b);
 
     //  printf("\n\n");
-    int a=1000000000;
-    long long int aa=1000000000000000000;
-    printf("%d\n",a);
-    printf("%lld\n",aa);
-     float ff= 22.123456789;
-     double dd=2.123456789123456;
-      double ddd=22.123456789123456;
+    int a = 1000000000;
+    long long int aa = 1000000000000000000;
+    printf("%d\n", a);
+    printf("%lld\n", aa);
+    float ff = 22.123456789;
+    double dd = 2.123456789123456;
+    double ddd = 22.123456789123456;
 
-     printf("%f\n",ff);
-     printf("%.15lf\n",dd);
-    printf("%.15lf",ddd);
+    printf("%f\n", ff);
+    printf("%.15lf\n", dd);
+    printf("%.15lf", ddd);
 
     return 0;
 }
