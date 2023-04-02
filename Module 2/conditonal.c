@@ -38,6 +38,8 @@ int main()
 {
     int tk,value;
     value=0;
+    int name=9;
+    
     scanf("%d", &tk);
 
     if (tk >= 5000)
