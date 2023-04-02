@@ -13,6 +13,7 @@
 #include <stdio.h>
 int main()
 {
+    
     // print 10% 20%
 
     // int a,b;
