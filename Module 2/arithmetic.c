@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int a=3,b=20;
+
+    int a=3,b=20,c=70;
+    printf("%d\n",c);
     double divide = b*1.0/a;
     printf("%lf\n",divide);
 
