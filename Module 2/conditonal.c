@@ -36,7 +36,8 @@
 #include <stdio.h>//nested if else
 int main()
 {
-    int tk;
+    int tk,value;
+    value=0;
     scanf("%d", &tk);
 
     if (tk >= 5000)

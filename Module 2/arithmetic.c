@@ -2,8 +2,8 @@
 int main()
 {
 
-    int a=3,b=20,c=70;
-    printf("%d\n",c);
+    int a=3,b=20;
+    
     double divide = b*1.0/a;
     printf("%lf\n",divide);
 
